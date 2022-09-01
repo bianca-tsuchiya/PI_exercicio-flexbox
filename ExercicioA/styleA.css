@@ -1,0 +1,56 @@
+.container{
+    background-color: #d0d3d4;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.filho{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin: 0.5px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.end{
+    justify-content: flex-end;
+}
+
+.center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-nome{
+    justify-content: space-evenly;
+}
+
+.azul-claro {
+    background-color: rgb(38, 216, 240);
+}
+
+.azul-escuro {
+    background-color: rgb(20, 20, 102);
+    color: white;
+}
+
+.rosa {
+    background-color: rgb(214, 90, 110);
+}
+
+.amarelo{
+    background-color: #efb661;
+}
+
